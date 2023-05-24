@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mCategory"
+        android:icon="@drawable/baseline_category_24"
+        android:title="Category" />
+    <item android:id="@+id/mBook"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:title="Book"/>
+    <item android:id="@+id/mNews"
+        android:icon="@drawable/baseline_newspaper_24"
+        android:title="News"/>
+    <item android:id="@+id/mNoti"
+        android:icon="@drawable/baseline_notifications_24"
+        android:title="Cart"/>
+    <item android:id="@+id/mManager"
+        android:icon="@drawable/baseline_manage_accounts_24"
+        android:title="Manager"/>
+</menu>

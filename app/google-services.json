@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692952733142",
+    "firebase_url": "https://librarymanageapp-default-rtdb.firebaseio.com",
+    "project_id": "librarymanageapp",
+    "storage_bucket": "librarymanageapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692952733142:android:076fddd72967dcf0bac077",
+        "android_client_info": {
+          "package_name": "com.example.librarymanageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692952733142-686je0dem7snr23iuv858mo581inb63c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmu2hulZoxEOuaS3b_xtL5xaUcY_lDLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692952733142-686je0dem7snr23iuv858mo581inb63c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

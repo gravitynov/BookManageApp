@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    tools:context=".AddCategoryActivity">
+    <TextView
+        android:text="Them danh muc san pham"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/add_category_name"
+        android:hint="Name"
+        android:background="@drawable/background_user_login"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="18dp"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/add_category_des"
+        android:hint="Descriptionme"
+        android:background="@drawable/background_user_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/add_category_img"
+        android:hint="Image"
+        android:background="@drawable/background_user_login"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="18dp"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:id="@+id/add_category_btnAdd"
+        android:text="Add"
+        android:background="@drawable/background_user_login"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
